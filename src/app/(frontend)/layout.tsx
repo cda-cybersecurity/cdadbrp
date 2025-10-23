@@ -24,7 +24,7 @@ export default async function RootLayout({ children }: { children: React.ReactNo
       <head>
         <InitTheme />
         <link href="/CDA-logo.ico" rel="icon" sizes="32x32" />
-        <link href="/CDA-logo.svg" rel="icon" type="image/svg+xml" />
+        <link href="/cdaprivacy-logo1.svg" rel="icon" type="image/svg+xml" />
       </head>
       <body>
         <Providers>
